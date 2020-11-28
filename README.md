@@ -1,4 +1,4 @@
-### Hi! I'm [Carlos](https://carloscuesta.me) 👋🏼
+### Hi! I'm [Carlos Cuesta](https://carloscuesta.me) 👋🏼
 
 I'm a **Front End Engineer** based in Barcelona ☀️, working at [Ulabox](https://ulabox.com). I'm a coding passionate focused on **JavaScript**, specifically **React** & **React-Native**. Interested in design, tech and **OpenSource** ❤️
 
