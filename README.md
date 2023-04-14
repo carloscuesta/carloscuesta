@@ -1,8 +1,6 @@
-### Hi! I'm [Carlos Cuesta](https://carloscuesta.me) 👋🏼
+### Hey! I'm [Carlos Cuesta](https://carloscuesta.me) 👋🏼
 
-I'm a **Front End Engineer** based in Barcelona ☀️. I'm a coding passionate focused on **JavaScript**, specifically **React** & **React-Native**. Interested in design, under engineering and **OpenSource** ❤️
-
-Aside from coding I enjoy writing technical things [at my blog](https://carloscuesta.me/blog) ✍️
+I'm a Front End Engineer based in Barcelona, that loves to code and build products with a delightful user experience. I love working in between product, engineering and developer experience, currently at [N26](https://n26.com).
 
 <p>
   <a href="https://twitter.com/intent/follow?screen_name=crloscuesta">
